@@ -8,7 +8,7 @@ function App() {
       <section className="welcome">
         <div className="logo">S</div>
 
-        <p className="eyebrow">SEMMy AI</p>
+        <p className="eyebrow">SEMMY AI</p>
 
         <h1>
           Your intelligent
@@ -25,7 +25,7 @@ function App() {
         </button>
       </section>
     </main>
-  ););
+  );
 }
 
 ReactDOM.createRoot(document.getElementById("root")).render(
